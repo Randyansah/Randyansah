@@ -1,4 +1,4 @@
-Randy Kofi Ansah 👋
+##Randy Kofi Ansah 👋
 I am an Electrical and Electronics Engineer aspiring to be a Machine learning Engineer
 <!--
 **Randyansah/Randyansah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
